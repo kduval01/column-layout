@@ -1,0 +1,22 @@
+.container{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.number {
+    position: relative;
+    left: 100px;
+    top: 300px;
+    align-items: center;
+    justify-content: center;
+}
+.column {
+    flex-grow: 1;
+    height: 700px;
+    align-items: center;
+    justify-content: center;
+
+}
